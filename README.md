@@ -25,7 +25,7 @@
 
 🧠 **Açıklama**
 
-- Elçi: Kralların Gölgesinde, oyuncunun farklı krallıklar arasında elçi olarak görevlendirildiği, strateji ve seçimlerin hikayeyi etkilediği 2D hikaye tabanlı bir diplomasi oyunudur.
+- Elçi: Kralların Gölgesinde, oyuncunun farklı krallıklar arasında elçi olarak görevlendirildiği, strateji ve seçimlerin hikayeyi etkilediği 3D hikaye tabanlı bir diplomasi oyunudur.
 
 ⸻
 
