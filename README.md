@@ -1,84 +1,86 @@
-# YZTA UNITY GRUP 20 
+# YZTA UNITY GRUP 20
 
 ⸻
 
-👥 Takım Adı: X
+👥 **Takım Adı:** X
 
 ⸻
 
-👨‍👩‍👧‍👦 Ekip Üyeleri
+👨‍👩‍👧‍👦 **Ekip Üyeleri**
 
-	| Resim  | Ad-Soyad | Görev | LinkedIn |
- | :------------- | :------------- | :------------- | :------------- |
- |   | Ahmet Enes Küçükmadan  | Scrum Master | L |
- |   | Buse Bilici  | Developer | L |
- |   | Muhammed Eryılmaz  | Profukt Owner / Developer | L |
- |   | Zeynep Ravza Yılmaz  | Designer | L |
-
-⸻
-
-🎮 Oyun İsmi: Medieval Diplomacy
+| Resim | Ad-Soyad | Görev | LinkedIn |
+|:-----:|:---------|:------|:---------|
+| ![](https://via.placeholder.com/80) | Ahmet Enes Küçükmadan | Scrum Master | [LinkedIn](#) |
+| ![](https://via.placeholder.com/80) | Buse Bilici | Developer | [LinkedIn](#) |
+| ![](https://via.placeholder.com/80) | Muhammed Eryılmaz | Product Owner / Developer | [LinkedIn](#) |
+| ![](https://via.placeholder.com/80) | Zeynep Ravza Yılmaz | Designer | [LinkedIn](#) |
 
 ⸻
 
-🧠 Açıklama
-
-Medieval Diplomacy, oyuncunun farklı krallıklar arasında elçi olarak görevlendirildiği, strateji ve seçimlerin hikayeyi etkilediği 2D hikaye tabanlı bir diplomasi oyunudur.
+🎮 **Oyun İsmi:** Medieval Diplomacy
 
 ⸻
 
-📖 Hikaye
+🧠 **Açıklama**
 
-Yıl 1265. Altı farklı krallık arasında gerginlik artmıştır. Savaşın eşiğindeki bu dünyada, oyuncu “Büyük Konsey” tarafından seçilmiş bir elçidir. Amacı; barışı korumak, ittifaklar kurmak ve zekice diplomasi ile savaşları engellemektir. Fakat her seçimün bir bedeli vardır…
-
-⸻
-
-🧩 Özellikler
-	•	🌐 Diplomasi bazlı seçim sistemleri
-	•	🗺️ Farklı krallıklara seyahat
-	•	🕵️‍♂️ Casusluk, tehdit, barış teklifleri gibi seçenekler
-	•	📜 Hikâyeye etki eden çoklu sonlar
-	•	🎨 3D gerçekçi orta çağ teması
- • 🤖 Yapay zeka eklentisi ile her oyunda yeni deneyimler.
+> Medieval Diplomacy, oyuncunun farklı krallıklar arasında elçi olarak görevlendirildiği, strateji ve seçimlerin hikayeyi etkilediği 2D hikaye tabanlı bir diplomasi oyunudur.
 
 ⸻
 
-🎯 Hedef Kitle
-	•	16 yaş ve üzeri, hikâye tabanlı oyunlardan hoşlanan kullanıcılar
-	•	Reigns, Pentiment, Crusader Kings gibi oyunlara ilgi duyanlar
-	•	Mobil, masaüstü ve web platformlarında strateji-diplomasi oyunları sevenler
+📖 **Hikaye**
+
+> Yıl 1265. Altı farklı krallık arasında gerginlik artmıştır. Savaşın eşiğindeki bu dünyada, oyuncu “Büyük Konsey” tarafından seçilmiş bir elçidir. Amacı; barışı korumak, ittifaklar kurmak ve zekice diplomasi ile savaşları engellemektir.  
+> Fakat her seçimin bir bedeli vardır…
 
 ⸻
 
-📢 Pazarlama Planı
-	•	TikTok ve Instagram’da fragman & karakter tanıtımları
-	•	Steam sayfası ön kayıt / wishlist kampanyası
-	•	Oyun forumları ve Reddit üzerinden tanıtım
-	•	Demo sürümünü itch.io’da yayımlama
+🧩 **Özellikler**
+
+- 🌐 Diplomasi bazlı seçim sistemleri  
+- 🗺️ Farklı krallıklara seyahat  
+- 🕵️‍♂️ Casusluk, tehdit, barış teklifleri gibi seçenekler  
+- 📜 Hikâyeye etki eden çoklu sonlar  
+- 🎨 3D gerçekçi orta çağ teması  
+- 🤖 Yapay zeka eklentisi ile her oyunda yeni deneyimler
 
 ⸻
 
-📂 Product Backlog
+🎯 **Hedef Kitle**
+
+- 16 yaş ve üzeri, hikâye tabanlı oyunlardan hoşlanan kullanıcılar  
+- Reigns, Pentiment, Crusader Kings gibi oyunlara ilgi duyanlar  
+- Mobil, masaüstü ve web platformlarında strateji-diplomasi oyunları sevenler
+
+⸻
+
+📢 **Pazarlama Planı**
+
+- TikTok ve Instagram’da fragman & karakter tanıtımları  
+- Steam sayfası ön kayıt / wishlist kampanyası  
+- Oyun forumları ve Reddit üzerinden tanıtım  
+- Demo sürümünü itch.io’da yayımlama
+
+⸻
+
+📂 **Product Backlog**
 
 👉 [Product Backlog’a Git](https://akademigrup20.atlassian.net/jira/core/projects/YG20/summary?atlOrigin=eyJwIjoiaiIsImkiOiJDRkQyN0EzRjFCNEU0QzQ4ODJGNTk1QzMwOEQxNDI3NSJ9)
 
 ⸻
 
-🚀 Sprint Süreçleri
+🚀 **Sprint Süreçleri**
 
 ⸻
 
-🟩 Sprint 1 – Prototip Hazırlığı
+### 🟩 Sprint 1 – Prototip Hazırlığı
 
-🗓️ Sprint Süresi:
-
+#### 🗓️ Sprint Süresi:
 20.06.2025 - 06.07.2025
 
-🎯 Sprint Hedefi:
+#### 🎯 Sprint Hedefi:
+> Oyun fikri, karakter yapısı ve ilk görsel planlar tamamlanacak; teknik hazırlıklar (repo, Jira kurulumu) yapılacak ve demo dünya tasarımına başlanacaktır.
 
-Oyun fikri, karakter yapısı ve ilk görsel planlar tamamlanacak; teknik hazırlıklar (repo, Jira kurulumu) yapılacak ve demo dünya tasarımına başlanacaktır.
-
-✅ Görev Listesi ve Puanlar (Toplam: 200)
+#### ✅ Görev Listesi ve Puanlar (Toplam: 200)
 
 | Görev | Açıklama | Puan |
 |-------|----------|------|
@@ -97,14 +99,12 @@ Oyun fikri, karakter yapısı ve ilk görsel planlar tamamlanacak; teknik hazır
 
 ⸻
 
-🟨 Sprint 2 – Oyun Mekaniklerinin Kodlanması
-
-(İçerik daha sonra eklenecek)
+### 🟨 Sprint 2 – Oyun Mekaniklerinin Kodlanması  
+_(İçerik daha sonra eklenecek)_
 
 ⸻
 
-🟨 Sprint 3 – Son Testler ve Yayın Hazırlığı
-
-(İçerik daha sonra eklenecek)
+### 🟨 Sprint 3 – Son Testler ve Yayın Hazırlığı  
+_(İçerik daha sonra eklenecek)_
 
 ⸻
