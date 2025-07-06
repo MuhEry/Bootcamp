@@ -14,6 +14,7 @@
 | [![IMG-3890.jpg](https://i.postimg.cc/kGG3KJZs/IMG-3890.jpg)](https://postimg.cc/DJ9MKT74) | Buse Bilici | Developer | [LinkedIn](https://www.linkedin.com/in/buse-bilici-27ab77284)|
 | [![d5b05baf-c7d9-45fc-a226-a006a0a8e4b9.jpg](https://i.postimg.cc/5yh7yfM6/d5b05baf-c7d9-45fc-a226-a006a0a8e4b9.jpg)](https://postimg.cc/y3TXr4xH) | Muhammed Eryılmaz | Product Owner / Developer | [LinkedIn](https://www.linkedin.com/in/muhery%C4%B1lmaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
 | [![0a1c4740-d159-40c8-8548-24e97524e14d.jpg](https://i.postimg.cc/ZYwJRggj/0a1c4740-d159-40c8-8548-24e97524e14d.jpg)](https://postimg.cc/F1kMCPhJ)| Zeynep Ravza Yılmaz | Designer | [LinkedIn](https://www.linkedin.com/in/zeynep-ravza-y%C4%B1lmaz-b578a82a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
+
 ⸻
  🎮 **Oyun İsmi:** Medieval Diplomacy
 
