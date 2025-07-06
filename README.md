@@ -10,7 +10,7 @@
 
 | Resim | Ad-Soyad | Görev | LinkedIn |
 |:-----:|:---------|:------|:---------|
-| ![](https://via.placeholder.com/80) | Ahmet Enes Küçükmadan | Scrum Master | [LinkedIn](#) |
+| [![IMG-3043.jpg](https://i.postimg.cc/7PpSpGL3/IMG-3043.jpg)](https://postimg.cc/9zY49fZ0) | Ahmet Enes Küçükmadan | Scrum Master | [LinkedIn](https://www.linkedin.com/in/ahmeteneskucukmadan)|
 | ![](https://via.placeholder.com/80) | Buse Bilici | Developer | [LinkedIn](#) |
 | ![](https://via.placeholder.com/80) | Muhammed Eryılmaz | Product Owner / Developer | [LinkedIn](#) |
 | ![](https://via.placeholder.com/80) | Zeynep Ravza Yılmaz | Designer | [LinkedIn](#) |
