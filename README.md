@@ -2,7 +2,7 @@
 
 ⸻
 
-👥 **Takım Adı:** X
+👥 **Takım Adı:** Grup20
 
 ⸻
 
@@ -16,13 +16,16 @@
 | [![0a1c4740-d159-40c8-8548-24e97524e14d.jpg](https://i.postimg.cc/ZYwJRggj/0a1c4740-d159-40c8-8548-24e97524e14d.jpg)](https://postimg.cc/F1kMCPhJ)| Zeynep Ravza Yılmaz | Designer | [LinkedIn](https://www.linkedin.com/in/zeynep-ravza-y%C4%B1lmaz-b578a82a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
 
 ⸻
- 🎮 **Oyun İsmi:** Medieval Diplomacy
+
+ 🎮 **Oyun İsmi:** 
+- Elçi: Kralların Gölgesinde
+[![8bc63051-88fd-4285-b57c-664ee497bbdc.jpg](https://i.postimg.cc/s2DD2rmj/8bc63051-88fd-4285-b57c-664ee497bbdc.jpg)](https://postimg.cc/75dyBjjd)
 
 ⸻
 
 🧠 **Açıklama**
 
-- Medieval Diplomacy, oyuncunun farklı krallıklar arasında elçi olarak görevlendirildiği, strateji ve seçimlerin hikayeyi etkilediği 2D hikaye tabanlı bir diplomasi oyunudur.
+- Elçi: Kralların Gölgesinde, oyuncunun farklı krallıklar arasında elçi olarak görevlendirildiği, strateji ve seçimlerin hikayeyi etkilediği 2D hikaye tabanlı bir diplomasi oyunudur.
 
 ⸻
 
@@ -40,7 +43,7 @@
 - 🕵️‍♂️ Casusluk, tehdit, barış teklifleri gibi seçenekler  
 - 📜 Hikâyeye etki eden çoklu sonlar  
 - 🎨 3D gerçekçi orta çağ teması  
-- 🤖 Yapay zeka eklentisi ile her oyunda yeni deneyimler
+- 🤖 Yapay zeka eklentisi ile her oyunca farklı cevaplar ve her oyunda yeni deneyimler
 
 ⸻
 
@@ -78,6 +81,7 @@
 
 #### 🎯 Sprint Hedefi:
 - Oyun fikri, karakter yapısı ve ilk görsel planlar tamamlanacak; teknik hazırlıklar (repo, Jira kurulumu) yapılacak ve demo dünya tasarımına başlanacaktır.
+- Tamamlanması beklenen puan: 200.
 
 #### ✅ Görev Listesi ve Puanlar (Toplam: 200)
 
@@ -95,6 +99,71 @@
 | Jira kurulumu ve görevlerin oluşturulması | Sprint görevleri tanımlandı ve puanlandı | 15 |
 | Demo dünya ve ana karakterin oluşturulması | İlk oynanabilir sahne ve karakter modeli hazırlandı | 50 |
 | Sprint değerlendirme ve 2. Sprint planlaması | Geribildirimler alındı, sonraki sprint hedefleri belirlendi | 30 |
+
+⸻
+
+📋 **Sprint Board Güncellemesi**
+
+Sprint süresince tamamlanan görevlerin Jira üzerindeki görünümüne aşağıdan ulaşabilirsiniz:
+
+📷 *Jira Ekran Görüntüsü:*
+
+[![IMG-3896.jpg](https://i.postimg.cc/76j276tM/IMG-3896.jpg)](https://postimg.cc/cgMCGsSr)
+
+⸻
+
+🛠️ **Ürün Durumu**
+
+Sprint 1 sonunda geliştirilen ürünün güncel durumu aşağıdaki gibidir:
+
+📷 *Oyun Demo Görüntüsü:*
+
+[![3d99a0f1-daca-4926-aa3e-6746c5322f38.jpg](https://i.postimg.cc/3xbm7njc/3d99a0f1-daca-4926-aa3e-6746c5322f38.jpg)](https://postimg.cc/YvYhzNs6)
+
+⸻
+
+🗓️ **Daily Scrum Notları**
+
+Sprint boyunca her gün düzenli olarak yapılan Daily Scrum toplantılarında takım üyeleri aşağıdaki 3 soruya yanıt verdi:
+
+- Ne yaptım?
+- Ne yapacağım?
+- Karşılaştığım engel var mı?
+
+📎 Detaylı günlük kayıtlar ve ekran görüntüleri aşağıdaki dökümanda sunulmuştur.
+
+👉 [Daily Scrum Dokümanı]
+
+⸻
+
+📌 **Sprint Review**
+
+Sprint 1 hedefleri başarıyla tamamlandı. Toplamda 12 görev tamamlanarak 200 puanlık hedefe ulaşıldı.
+
+- 🎮 Oyunun temel fikri ve hikayesi oluşturuldu.
+- 👥 Ana ve yan karakterler belirlendi.
+- 🗺️ Demo dünya ve ana karakter taslağı hazırlandı.
+- 🧩 Teknik altyapı (GitHub, Unity, Jira) kuruldu.
+- 📊 Rakip analizleri yapılarak oyun tasarımına yön verildi.
+
+📈 Takım Sprint 2’ye geçmeye hazırdır.
+
+⸻
+
+🔁 **Sprint Retrospective**
+
+- ✅ Neler iyi gitti:
+  - Tüm görevler zamanında tamamlandı.
+  - İletişim ve görev dağılımı verimliydi.
+  - Jira ve GitHub entegrasyonu başarılıydı.
+
+- 🛠️ Geliştirilebilecek yönler:
+  - Asset araştırmaları daha erken yapılabilir.
+  - Unity içinde ilk demo versiyon daha erken oluşturulabilirdi.
+
+- 💡 Öğrenilenler:
+  - Sprint planlaması ve görev puanlaması süreci takım içi uyumu artırdı.
+  - İlk kez birlikte çalışan ekip olarak süreç yönetimi konusunda deneyim kazanıldı.
 
 ⸻
 
