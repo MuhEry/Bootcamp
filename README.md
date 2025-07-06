@@ -11,26 +11,24 @@
 | Resim | Ad-Soyad | Görev | LinkedIn |
 |:-----:|:---------|:------|:---------|
 | [![IMG-3043.jpg](https://i.postimg.cc/7PpSpGL3/IMG-3043.jpg)](https://postimg.cc/9zY49fZ0) | Ahmet Enes Küçükmadan | Scrum Master | [LinkedIn](https://www.linkedin.com/in/ahmeteneskucukmadan)|
-| ![](https://via.placeholder.com/80) | Buse Bilici | Developer | [LinkedIn](#) |
-| ![](https://via.placeholder.com/80) | Muhammed Eryılmaz | Product Owner / Developer | [LinkedIn](#) |
-| ![](https://via.placeholder.com/80) | Zeynep Ravza Yılmaz | Designer | [LinkedIn](#) |
-
+| [![IMG-3890.jpg](https://i.postimg.cc/kGG3KJZs/IMG-3890.jpg)](https://postimg.cc/DJ9MKT74) | Buse Bilici | Developer | [LinkedIn](https://www.linkedin.com/in/buse-bilici-27ab77284)|
+| [![d5b05baf-c7d9-45fc-a226-a006a0a8e4b9.jpg](https://i.postimg.cc/5yh7yfM6/d5b05baf-c7d9-45fc-a226-a006a0a8e4b9.jpg)](https://postimg.cc/y3TXr4xH) | Muhammed Eryılmaz | Product Owner / Developer | [LinkedIn](https://www.linkedin.com/in/muhery%C4%B1lmaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
+| [![0a1c4740-d159-40c8-8548-24e97524e14d.jpg](https://i.postimg.cc/ZYwJRggj/0a1c4740-d159-40c8-8548-24e97524e14d.jpg)](https://postimg.cc/F1kMCPhJ)| Zeynep Ravza Yılmaz | Designer | [LinkedIn](https://www.linkedin.com/in/zeynep-ravza-y%C4%B1lmaz-b578a82a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
 ⸻
-
-🎮 **Oyun İsmi:** Medieval Diplomacy
+ 🎮 **Oyun İsmi:** Medieval Diplomacy
 
 ⸻
 
 🧠 **Açıklama**
 
-> Medieval Diplomacy, oyuncunun farklı krallıklar arasında elçi olarak görevlendirildiği, strateji ve seçimlerin hikayeyi etkilediği 2D hikaye tabanlı bir diplomasi oyunudur.
+- Medieval Diplomacy, oyuncunun farklı krallıklar arasında elçi olarak görevlendirildiği, strateji ve seçimlerin hikayeyi etkilediği 2D hikaye tabanlı bir diplomasi oyunudur.
 
 ⸻
 
 📖 **Hikaye**
 
-> Yıl 1265. Altı farklı krallık arasında gerginlik artmıştır. Savaşın eşiğindeki bu dünyada, oyuncu “Büyük Konsey” tarafından seçilmiş bir elçidir. Amacı; barışı korumak, ittifaklar kurmak ve zekice diplomasi ile savaşları engellemektir.  
-> Fakat her seçimin bir bedeli vardır…
+- Yıl 1265. Altı farklı krallık arasında gerginlik artmıştır. Savaşın eşiğindeki bu dünyada, oyuncu “Büyük Konsey” tarafından seçilmiş bir elçidir. Amacı; barışı korumak, ittifaklar kurmak ve zekice diplomasi ile savaşları engellemektir.  
+- Fakat her seçimin bir bedeli vardır…
 
 ⸻
 
@@ -78,7 +76,7 @@
 20.06.2025 - 06.07.2025
 
 #### 🎯 Sprint Hedefi:
-> Oyun fikri, karakter yapısı ve ilk görsel planlar tamamlanacak; teknik hazırlıklar (repo, Jira kurulumu) yapılacak ve demo dünya tasarımına başlanacaktır.
+- Oyun fikri, karakter yapısı ve ilk görsel planlar tamamlanacak; teknik hazırlıklar (repo, Jira kurulumu) yapılacak ve demo dünya tasarımına başlanacaktır.
 
 #### ✅ Görev Listesi ve Puanlar (Toplam: 200)
 
