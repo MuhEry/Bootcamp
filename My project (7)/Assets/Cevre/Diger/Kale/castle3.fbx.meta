@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 0e26552e0654f9344906f355317e8021
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 0fd89eb6b1c8be4409b303a21acb8e98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brick_texture
+    second: {fileID: 2100000, guid: 7c4fdb393b560fa46beb5609b297bdbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: element_02
+    second: {fileID: 2100000, guid: 6fda1b1de22f0f546bcb3178449a2ce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: element_03
+    second: {fileID: 2100000, guid: d5063777cab029244bfba4ee3233e39b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: element_08_mat
+    second: {fileID: 2100000, guid: 0db1291d4b0d9b44e93627ff5619cd06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: element_09_mat
+    second: {fileID: 2100000, guid: 3bc3f8774f7d0d743b1e2c5a344eae8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: element_10_mat
+    second: {fileID: 2100000, guid: 340fee6cbe62aa540969ed56f9006f2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: element_11_mat
+    second: {fileID: 2100000, guid: a02357dec8397284b9bd495d66c6f1fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prpops_02_mat
+    second: {fileID: 2100000, guid: fb3ebbb7f14b4a441ba5ce33b3052dc0, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brick_BaseColor
+    second: {fileID: 2800000, guid: 44e4396568a95604c9f65799b8b08ddc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brick_Normal_GL
+    second: {fileID: 2800000, guid: e144936949c2110418a7d6bb039d719f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brick_Roughness
+    second: {fileID: 2800000, guid: 068c4205580aa204abb6c653f44bf374, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_element_06_BaseColor
+    second: {fileID: 2800000, guid: e66f022a2af1beb4289547e13ff1d68d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_element_06_Normal_GL
+    second: {fileID: 2800000, guid: b3f81a2f446c5fe42b415fead5c54856, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Castle_element_06_Roughness
+    second: {fileID: 2800000, guid: 75d9eef83365697429b39b5576e04ab7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_02_BaseColor
+    second: {fileID: 2800000, guid: aff81838c645f2b42a0361714c11fe3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_02_Normal_GL
+    second: {fileID: 2800000, guid: dc7adfc300e153c44b36a672a41db92c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_02_Roughness
+    second: {fileID: 2800000, guid: 7113770b6365c154f9d081a94c10103f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_03_BaseColor
+    second: {fileID: 2800000, guid: c3b7b5bab355bec48b462d6e818c7958, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_03_Normal_GL
+    second: {fileID: 2800000, guid: d4ffa9955ddb77f4e98fe24db57c8e78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_03_Roughness
+    second: {fileID: 2800000, guid: af8cc638e7bf26a47b1fa80f5256dd93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_08_BaseColor
+    second: {fileID: 2800000, guid: 4d2de25f011138649b54920c8aaca3ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_08_NormalGL
+    second: {fileID: 2800000, guid: 246e4c814159225458adbe5788bc01cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_08_Roughness
+    second: {fileID: 2800000, guid: 91ce21c9b0dee7744955486cd1efacb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_09_BaseColor
+    second: {fileID: 2800000, guid: bbe8f7f92a9b8e540b00971799e4af0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_09_Normal_GL
+    second: {fileID: 2800000, guid: c1c1f820cd6a78c43bb3d0b1b5655524, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_09_Roughness
+    second: {fileID: 2800000, guid: 8d6b2dd5c9209224296427408afa0fd0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_10_BaseColor
+    second: {fileID: 2800000, guid: fd6e89ad32b5d834fb80f00353f5a457, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_10_Normal_GL
+    second: {fileID: 2800000, guid: 5e530cbd20483474a962a5ca71f845e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_10_Roughness
+    second: {fileID: 2800000, guid: 30523d958fba9234a9ae57dbfb8de45a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_11_BaseColor
+    second: {fileID: 2800000, guid: 5164029a09ee4eb42b684606cc811b5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_11_Normal_GL
+    second: {fileID: 2800000, guid: fcae49fc3b56d2e4a848a5ec0bcddefb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_element_11_Roughness
+    second: {fileID: 2800000, guid: e7c51203d1a9d1649bceaf550b8c9858, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_props_02_BaseColor
+    second: {fileID: 2800000, guid: c294e4eef4ed9e349b0cf1de154733f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_props_02_NormalGL
+    second: {fileID: 2800000, guid: 8a49ca5358ca23042a434d538e83f39d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: castle_props_02_Roughness
+    second: {fileID: 2800000, guid: 4bf016c3ac9d22d4eac591b89396cd77, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
