@@ -98,14 +98,14 @@
 
 ⸻
 
-#### 🎯 Sprint Hedefi:
+#### 🎯 Sprint ve Puan Hedefi:
 - Oyun fikri, karakter yapısı ve ilk görsel planlar tamamlanacak; teknik hazırlıklar (repo, Jira kurulumu) yapılacak ve demo dünya tasarımına başlanacaktır.
 - Tamamlanması beklenen puan: 200.
 - Tamamlanan puan: 200.
 
 ⸻
 
-### ⏱️ Tahmin Mantığı (Estimation Logic)
+### ⏱️ Tahmin Mantığı 
 
 Sprint görevleri, tahmini tamamlanma sürelerine göre puanlandırılmıştır.  
 Her puan aralığı belirli bir zaman dilimini temsil eder:
