@@ -74,16 +74,12 @@
 
 ⸻
 
-### 🟩 Sprint 1 – Prototip Hazırlığı
+## 🟩 1. Sprint 
 
 #### 🗓️ Sprint Süresi:
 20.06.2025 - 06.07.2025
 
-#### 🎯 Sprint Hedefi:
-- Oyun fikri, karakter yapısı ve ilk görsel planlar tamamlanacak; teknik hazırlıklar (repo, Jira kurulumu) yapılacak ve demo dünya tasarımına başlanacaktır.
-- Tamamlanması beklenen puan: 200.
-
-#### ✅ Görev Listesi ve Puanlar (Toplam: 200)
+## ✅ Sprint Notları (Toplam: 200)
 
 | Görev | Açıklama | Puan |
 |-------|----------|------|
@@ -99,6 +95,42 @@
 | Jira kurulumu ve görevlerin oluşturulması | Sprint görevleri tanımlandı ve puanlandı | 15 |
 | Demo dünya ve ana karakterin oluşturulması | İlk oynanabilir sahne ve karakter modeli hazırlandı | 50 |
 | Sprint değerlendirme ve 2. Sprint planlaması | Geribildirimler alındı, sonraki sprint hedefleri belirlendi | 30 |
+
+⸻
+
+#### 🎯 Sprint Hedefi:
+- Oyun fikri, karakter yapısı ve ilk görsel planlar tamamlanacak; teknik hazırlıklar (repo, Jira kurulumu) yapılacak ve demo dünya tasarımına başlanacaktır.
+- Tamamlanması beklenen puan: 200.
+- Tamamlanan puan: 200.
+
+⸻
+
+### ⏱️ Tahmin Mantığı (Estimation Logic)
+
+Sprint görevleri, tahmini tamamlanma sürelerine göre puanlandırılmıştır.  
+Her puan aralığı belirli bir zaman dilimini temsil eder:
+
+- **10** → Çok basit görevler (10–15 dakika)
+- **15** → Basit görevler (15–30 dakika)
+- **20** → Orta seviye görevler (30–60 dakika)
+- **30** → Detaylı görevler (1–2 saat)
+- **50** → Karmaşık ve çok adımlı görevler (2 saatten fazla)
+
+Tahminler; görev karmaşıklığı, bağımlılıkları ve daha önceki benzer işlerin süresine göre verilmiştir.
+
+⸻
+
+🗓️ **Daily Scrum Notları**
+
+Sprint boyunca her gün düzenli olarak yapılan Daily Scrum toplantılarında takım üyeleri aşağıdaki 3 soruya yanıt verdi:
+
+- Ne yaptım?
+- Ne yapacağım?
+- Karşılaştığım engel var mı?
+
+📎 Detaylı günlük kayıtlar ve ekran görüntüleri aşağıdaki dökümanda sunulmuştur.
+
+👉 [Daily Scrum Dokümanı](aktivite_raporu.docx)
 
 ⸻
 
@@ -119,20 +151,6 @@ Sprint 1 sonunda geliştirilen ürünün güncel durumu aşağıdaki gibidir:
 📷 *Oyun Demo Görüntüsü:*
 
 [![3d99a0f1-daca-4926-aa3e-6746c5322f38.jpg](https://i.postimg.cc/3xbm7njc/3d99a0f1-daca-4926-aa3e-6746c5322f38.jpg)](https://postimg.cc/YvYhzNs6)
-
-⸻
-
-🗓️ **Daily Scrum Notları**
-
-Sprint boyunca her gün düzenli olarak yapılan Daily Scrum toplantılarında takım üyeleri aşağıdaki 3 soruya yanıt verdi:
-
-- Ne yaptım?
-- Ne yapacağım?
-- Karşılaştığım engel var mı?
-
-📎 Detaylı günlük kayıtlar ve ekran görüntüleri aşağıdaki dökümanda sunulmuştur.
-
-👉 [Daily Scrum Dokümanı](aktivite_raporu.docx)
 
 ⸻
 
