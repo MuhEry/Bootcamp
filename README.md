@@ -31,7 +31,7 @@
 
 📖 **Hikaye**
 
-- Yıl 1265. Altı farklı krallık arasında gerginlik artmıştır. Savaşın eşiğindeki bu dünyada, oyuncu “Büyük Konsey” tarafından seçilmiş bir elçidir. Amacı; barışı korumak, ittifaklar kurmak ve zekice diplomasi ile savaşları engellemektir.  
+- Yıl 1265. Üç farklı krallık arasında gerginlik artmıştır. Savaşın eşiğindeki bu dünyada, oyuncu “Büyük Konsey” tarafından seçilmiş bir elçidir. Amacı; barışı korumak, ittifaklar kurmak ve zekice diplomasi ile savaşları engellemektir.  
 - Fakat her seçimin bir bedeli vardır…
 
 ⸻
