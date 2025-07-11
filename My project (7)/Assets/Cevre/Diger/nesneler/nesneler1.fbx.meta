@@ -3,7 +3,202 @@ guid: b96a930abf86f6143b69f295e1d8b169
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crane_mat
+    second: {fileID: 2100000, guid: b7417ba9d5aa1a14692d7cade06d06c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fantasy_props01_mat
+    second: {fileID: 2100000, guid: a6cb24a09a096d64fa5134f8ba451d72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fantasy_props02_mat
+    second: {fileID: 2100000, guid: 8784392f5c9f27c46935f5a78e164829, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fantasy_props03_mat
+    second: {fileID: 2100000, guid: 295a950a87d828f4d9194607c4accedf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fantasy_props04_mat
+    second: {fileID: 2100000, guid: 3fffd069e1d3c534e9dbdeedcbdc1cc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fantasy_props05_mat
+    second: {fileID: 2100000, guid: 3f3802c6b74323e4996d8f2005250230, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fantasy_props06_mat
+    second: {fileID: 2100000, guid: e431fba5a6bc3e74182bfbdf42a0a31b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: well_mat
+    second: {fileID: 2100000, guid: 90c8c5c4b59d26e4d85063bdfadc2d93, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props01_BaseColor
+    second: {fileID: 2800000, guid: 61e6ceddba220d44a9f6fd4aa8003b75, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props01_Metallic
+    second: {fileID: 2800000, guid: 803dff3ea75ce354eb2c963534e442c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props01_NormalGL
+    second: {fileID: 2800000, guid: 63d4135f3c7d7204f98f4dd7d85b8e99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props01_Roughness
+    second: {fileID: 2800000, guid: 42046c23776e5884cbff05919dcd9f1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props02_BaseColor
+    second: {fileID: 2800000, guid: 67d2fede0faf5b74c8919bd3368e44a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props02_Metallic
+    second: {fileID: 2800000, guid: 8425a203c3cf99c4e8a81a59df0073ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props02_NormaL_GL
+    second: {fileID: 2800000, guid: 55bbe781f486bcc4ba068bc126c27c73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props02_Roughness
+    second: {fileID: 2800000, guid: 6850640c11410be44afda33d547e6e9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props03_BaseColor
+    second: {fileID: 2800000, guid: 78ed9614ae7e69c4ea30ed70cffada73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props03_Metallic
+    second: {fileID: 2800000, guid: ade75cbc9d7d3ac4fbbc0db5e6dce8b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props03_NormalGL
+    second: {fileID: 2800000, guid: 35abee9fff8f4ab43b55d2fa0c39bb44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props03_Roughness
+    second: {fileID: 2800000, guid: d291bc704f840c9439bb733925cd81c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props04_BaseColor
+    second: {fileID: 2800000, guid: 2467b7c02545ee04ca2039a507227f24, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props04_Metallic
+    second: {fileID: 2800000, guid: 5da540f7e1e550a42beabdf8b379e46e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props04_NormalGL
+    second: {fileID: 2800000, guid: f7c07db173a857842ae11cc1008ba66b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props04_Roughness
+    second: {fileID: 2800000, guid: c9c2333907c559644b49baa61a9b3f59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props05_BaseColor
+    second: {fileID: 2800000, guid: 5a5928434ac9aa440b351609d564d3f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props05_Metallic
+    second: {fileID: 2800000, guid: 894dbd2f110a89f4c9f02eb8aa4ac198, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props05_NormalGL
+    second: {fileID: 2800000, guid: f5526a0f529695c47adb8a8ca36fceef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props05_Roughness
+    second: {fileID: 2800000, guid: 843deef6642736349950c4d4337be0fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props06_BaseColor
+    second: {fileID: 2800000, guid: 7bdc30da3197ac74681f159c2a30c09b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props06_Metallic
+    second: {fileID: 2800000, guid: 8e3c4c0d5b442834ba04ee6172303efb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props06_NormalGL
+    second: {fileID: 2800000, guid: 3363bd17a0a729448947680c80aedee7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props06_Roughness
+    second: {fileID: 2800000, guid: 4c75cda90a42ac342a1b562bfe566509, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props_crane_BaseColor
+    second: {fileID: 2800000, guid: 7efd60bf376a4ce4485be7bda38ce8e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props_crane_Metallic
+    second: {fileID: 2800000, guid: 28965a8a83e4d0a40b5211840779728b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props_crane_Normal_GL
+    second: {fileID: 2800000, guid: 0adcb6a11acb7bf48887ef63bfaa2e90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props_crane_Roughness
+    second: {fileID: 2800000, guid: e14b274edddc5294ab5c10b588e79b4f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props_well_BaseColor
+    second: {fileID: 2800000, guid: acc7cdc041cfd5548bca4bb1598cd9ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props_well_Normal
+    second: {fileID: 2800000, guid: 7ae79ad54cf1fb54183dc7c8b73f42ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fantasy_props_well_Roughness
+    second: {fileID: 2800000, guid: 0bb5ac99f32415b4195708bc83776b30, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
