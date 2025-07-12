@@ -1,31 +1,19 @@
-# ==========================================
-# Unity .gitignore – Özelleştirilmiş
-# Kaynak: github.com/github/gitignore + eklemeler
-# ==========================================
+# ========================
+# Unity Projesi İçin GitIgnore
+# ========================
 
-# Unity tarafından oluşturulan klasörler
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
-[Bb]uild/
-[Bb]uilds/
+[Bb]uild*/
 [Ll]ogs/
-[Uu]ser[Ss]ettings/
 MemoryCaptures/
-Recordings/
-
-# Kayıtlar ve log dosyaları
-*.log
+UserSettings/
 *.tmp
+*.bak
+*.log
 
-# Blender geçici dosyaları
-*.blend1
-*.blend1.meta
-
-# JetBrains Rider (veya Rider plugin)
-[Aa]ssets/Plugins/Editor/JetBrains*
-
-# Visual Studio ve IDE'ler
+# ❌ IDE / Derleyici dosyaları
 .vs/
 .gradle/
 *.csproj
@@ -42,51 +30,49 @@ Recordings/
 *.opendb
 *.VC.db
 
-# Unity meta dosyaları (derleyiciye özel)
+
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
 
-# Unity çökme raporu
-sysinfo.txt
 
-# Build dosyaları
 *.apk
 *.aab
 *.unitypackage
 *.app
+*.exe
+*.dll
 
-# Crashlytics
-crashlytics-build.properties
+.DS_Store
+*.swp
+*.swo
 
-# Addressables - build çıktısı
-Assets/AddressableAssetsData/*/*.bin*
-Assets/StreamingAssets/aa*
-Assets/StreamingAssets/aa.meta
+.idea/
 
-# Visual Scripting otomatik dosyaları
 Assets/Unity.VisualScripting.Generated/**
 
-# ==========================================
-# ⛔ Asset Store'dan gelen dev dosyalar
-# ==========================================
+!*.fbx
+!*.obj
+!*.prefab
+!*.unity
+!*.mat
+!*.shader
+!*.cs
+!*.png
+!*.jpg
+!*.jpeg
+!*.tga
+!*.psd
+!*.exr
+!*.hdr
+!*.wav
+!*.mp3
+!*.ttf
+!*.otf
+!*.anim
+!*.controller
+!*.overrideController
+!*.meta
 
-# IgniteCoders Simple Water Shader paketi
-Assets/IgniteCoders/
-
-# Unity Terrain Demo sahneleri
-Assets/TerrainDemoScene_URP/
-
-# TextMeshPro örnek fontlar
-Assets/TextMeshPro/
-
-# Büyük medya ve kaynak dosyaları
-*.tif
-*.tga
-*.psd
-*.exr
-*.wav
-*.mp4
-*.fbx
-*.otf
-*.ttf
+!ProjectSettings/
+!Assets/
