@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: ea1f38102aee2264ab867d8ca556ac29
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brick_material
+    second: {fileID: 2100000, guid: d873557396879764cbcaceb4f58f0a1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dome_mat
+    second: {fileID: 2100000, guid: a4e30c9cd305a9845b498fec20acd359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minaret_mat
+    second: {fileID: 2100000, guid: c6e46236d04c7de4c88ac2a08f4ee947, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building_1_mat
+    second: {fileID: 2100000, guid: 88ff51e28ca0cb3409e4e54cd74d6339, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building_2_mat
+    second: {fileID: 2100000, guid: 93d3d105183c4d04cb152f8e0e8f5064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building_3_mat
+    second: {fileID: 2100000, guid: f8bf9e8bb3976624591f6d61636f4906, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building_4_mat
+    second: {fileID: 2100000, guid: 5b8211db36c207244b84fabe36bdcd54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building_5_mat
+    second: {fileID: 2100000, guid: 38cef7f9fbe0d3048a9f1b7976fdbfe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building_6_mat
+    second: {fileID: 2100000, guid: 040acbcf539ee2141b6db046700a9cbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building_7_mat
+    second: {fileID: 2100000, guid: 9c9be57d546364d4a951b6d2757f0205, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: building_8_mat
+    second: {fileID: 2100000, guid: 8e9be3d0b66a4644db5dc72c8f07dda8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: element_01_mat
+    second: {fileID: 2100000, guid: f2e835de9a2479641a1db7dc608b3342, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: element_02_mat
+    second: {fileID: 2100000, guid: fe3afa49400b89841958e6dbfc84a4ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: element_03_mat
+    second: {fileID: 2100000, guid: d118412837c4cfd4fbd05a4775ed31a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: element_04
+    second: {fileID: 2100000, guid: a3470e29d68293a41a1876126c211f19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: element_05_mat
+    second: {fileID: 2100000, guid: df43218efb186fa4e893efbce48605c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: element_07_mat
+    second: {fileID: 2100000, guid: 6f28dde6e450ab94ca6772635b9a65f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: element_07_mat.001
+    second: {fileID: 2100000, guid: 85d0017ee692b794aa64c65c2ac1af8b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_01_BaseColor
+    second: {fileID: 2800000, guid: bcde2fbea43e6264682e1f08a261ce26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_01_Metallic
+    second: {fileID: 2800000, guid: 7b027a46723709347b38ef284e16edde, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_01_Normal_GL
+    second: {fileID: 2800000, guid: dca29f3c93c963a4a9000500e7fc327b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_01_Roughness
+    second: {fileID: 2800000, guid: dda1d830eea59524dbdd7eb2b324c728, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_02_BaseColor
+    second: {fileID: 2800000, guid: 806d7fee27fa2c14385fe2e93213dc07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_02_Metallic
+    second: {fileID: 2800000, guid: 43ea330be752b8c46b074568cfee4994, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_02_Normal_GL
+    second: {fileID: 2800000, guid: 53062081fd806bf47b60a09cc0d4a1e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_02_Roughness
+    second: {fileID: 2800000, guid: 846abca0176acaa4893d6b469d50f1a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_03_BaseColor
+    second: {fileID: 2800000, guid: dccc85875b082614984541b80d5aff68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_03_Metallic
+    second: {fileID: 2800000, guid: a4a6b8b0897890a4a8f4f7f2b19fffca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_03_Normal_GL
+    second: {fileID: 2800000, guid: e2789aacd2315ec4c93fd706ef4a3110, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_03_Roughness
+    second: {fileID: 2800000, guid: fae583c11f6e19140a50d08518763f84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_04_BaseColor
+    second: {fileID: 2800000, guid: 4f6d4bf294bc8be47a6db0082b524975, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_04_Metallic
+    second: {fileID: 2800000, guid: 67430fc637ef55e4eaa400498f96270a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_04_Normal_GL
+    second: {fileID: 2800000, guid: d66bea1101e477f4c935f23e8559959d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_04_Roughness
+    second: {fileID: 2800000, guid: de52a4935a5fca14fa46b2d3409e28c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_05_BaseColor
+    second: {fileID: 2800000, guid: f63dd7b6b48bc954fa3d63fbc75fff82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_05_Metallic
+    second: {fileID: 2800000, guid: f8d0a5582e55654429975ff20a8773f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_05_Normal_GL
+    second: {fileID: 2800000, guid: 2af10359ffff0c045a77fca44c396d7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_05_Roughness
+    second: {fileID: 2800000, guid: 29e28fb261be9674db72820a6d34d32f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_06_BaseColor
+    second: {fileID: 2800000, guid: f91164c77105e4a448554094c537ad45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_06_Normal_GL
+    second: {fileID: 2800000, guid: 9ade1148d3cac804ea9c46b28c8cd35d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_06_Roughness
+    second: {fileID: 2800000, guid: 6c913935fd5a86f4585f745866ca1bf3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_07_BaseColor
+    second: {fileID: 2800000, guid: 8f2cae09e35a0cc45b9c36ab48ea56ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_07_Normal_GL
+    second: {fileID: 2800000, guid: 7b3d3f7acbe427a4d911c50e18d6a9a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_07_Roughness
+    second: {fileID: 2800000, guid: bd06c1baad83f024596a3dc596c1d3d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_08_BaseColor
+    second: {fileID: 2800000, guid: 284d662ca02f6dd42b35b6348f67cc6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_08_Metallic
+    second: {fileID: 2800000, guid: 30f31aef14fa2d045949a85a91eeccfd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_08_Normal_GL
+    second: {fileID: 2800000, guid: 9eda92f3a0dc5e04db5e4300011b6a9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_08_Roughness
+    second: {fileID: 2800000, guid: a0c07ae1b887ff64cae53cd174bc7ebe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_brick_BaseColor
+    second: {fileID: 2800000, guid: bd49d817fae47bc41aebf1f1c54d9e27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_brick_Normal_GL
+    second: {fileID: 2800000, guid: 7f95ff332acc82d4ca21ef2ea3522e04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_brick_Roughness
+    second: {fileID: 2800000, guid: 5d2148ac2dd6b14448f5e0d8886c8043, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_dome_BaseColor
+    second: {fileID: 2800000, guid: d5d6e7868a648944b9c2df2bee8419f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_dome_Metallic
+    second: {fileID: 2800000, guid: 0fea7125f5dda65439dc3abea13b631e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_dome_Normal_GL
+    second: {fileID: 2800000, guid: 3714b0c055c408e4bb5a5041457ec613, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_dome_Roughness
+    second: {fileID: 2800000, guid: 8dfba6968061e8947b1a2a97a71d3ad1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_element_01_BaseColor
+    second: {fileID: 2800000, guid: 784d2e286c68cc644ab99de5fef8bd1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_element_01_Metallic
+    second: {fileID: 2800000, guid: b3718857dc60ae84db073b1065040d18, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_element_01_Normal_GL
+    second: {fileID: 2800000, guid: eb72638e33c6db347b7c14aa0236b403, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_element_01_Roughness
+    second: {fileID: 2800000, guid: 876bc8e700c15dc4bad472b05af19389, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_element_05_BaseColor
+    second: {fileID: 2800000, guid: 8b3bd8ec33f918d48991127e5f27a337, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_element_05_Metallic
+    second: {fileID: 2800000, guid: 5227dc968fde167499ffb3fe32685146, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_element_05_Normal_GL
+    second: {fileID: 2800000, guid: 6dc9b479aa50a0e48a661c135bcca8d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_element_05_Roughness
+    second: {fileID: 2800000, guid: e98d4398543ee7a4a969859e8be937e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_element_07_BaseColor
+    second: {fileID: 2800000, guid: dcf9a7f7a18f7654eb05dad3eaa5801a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_element_07_Metallic
+    second: {fileID: 2800000, guid: f2b5cbaef74a7804f9bd8e4c6533fdf4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_element_07_Normal_GL
+    second: {fileID: 2800000, guid: dfcfce814e882ee43af8068ffc9030eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_building_element_07_Roughness
+    second: {fileID: 2800000, guid: bd67c9d9c8b281247abf25f99a441d12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_buildings_minaret_BaseColor
+    second: {fileID: 2800000, guid: 319823958c75aa543acbaad3fabcb37b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_buildings_minaret_Normal_GL
+    second: {fileID: 2800000, guid: a332aff91af082a40979138ee33cc9d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_buildings_minaret_Roughness
+    second: {fileID: 2800000, guid: 2906db8cf75f5d24db9bc2d362771967, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_element_02_BaseColor
+    second: {fileID: 2800000, guid: 2b2059a27c58c184899ff0b5b7347945, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_element_02_Normal_GL
+    second: {fileID: 2800000, guid: 2f59759655c00264f9aad2720fb8906b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_element_02_Roughness
+    second: {fileID: 2800000, guid: e22c4b79751437941b253aa17c024f38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_element_03_BaseColor
+    second: {fileID: 2800000, guid: 23c5639f451de6642a5a3d939d64c556, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_element_03_Normal_GL
+    second: {fileID: 2800000, guid: df57d5b2f395f0747a5ba44c288f8b74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_element_03_Roughness
+    second: {fileID: 2800000, guid: 7e455f81a48e36f46be6be148f58fb6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_element_04_BaseColor
+    second: {fileID: 2800000, guid: 9180b86b2d39fa247958801d580e69d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_element_04_Normal_GL
+    second: {fileID: 2800000, guid: cba439a41e90ae047b698d3404fa1dc8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fantasy_element_04_Roughness
+    second: {fileID: 2800000, guid: a02d89d8585193c40b4dc2f60e8492f0, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
