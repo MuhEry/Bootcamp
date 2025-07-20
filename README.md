@@ -250,12 +250,11 @@ Aşağıda Jira’dan alınan sprint board ekran görüntüsü yer almaktadır:
 
 ### 🛠️ Ürün Durumu
 
-- Harita UI ve kale geçiş kodu çalışır durumda  
-- Diyalog ve görev sistemleri kod edildi  
-- Hikaye kayıt sistemi kodlandi  
-- Krallıklar ve karakterler oyuna eklendi
-- Oyun haritasına objeler eklenerek zenginleştirildi.
+Sprint 2 sonunda geliştirilen ürünün güncel durumu aşağıdaki gibidir:
 
+📷 *Oyun Demo Görüntüsü:*
+
+[![.](https://i.postimg.cc/y8tmMRpG/Whats-App-Image-2025-07-20-at-20-35-22.jpg)](https://postimg.cc/RW1JfWB1)
 ⸻
 
 ### 📌 Sprint Review
