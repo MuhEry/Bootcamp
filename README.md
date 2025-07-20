@@ -166,7 +166,7 @@ Sprint 1 hedefleri başarıyla tamamlandı. Toplamda 12 görev tamamlanarak 200 
 
 📈 Takım Sprint 2’ye geçmeye hazırdır.
 
-⸻
+⸻ 
 
 🔁 **Sprint Retrospective**
 
@@ -184,10 +184,106 @@ Sprint 1 hedefleri başarıyla tamamlandı. Toplamda 12 görev tamamlanarak 200 
   - İlk kez birlikte çalışan ekip olarak süreç yönetimi konusunda deneyim kazanıldı.
 
 ⸻
+⸻
+⸻
 
-### 🟨 Sprint 2 – Oyun Mekaniklerinin Kodlanması  
-_(İçerik daha sonra eklenecek)_
+## 🟩 2. Sprint 
 
+### 🗓️ Sprint Süresi:
+07.07.2025 - 20.07.2025
+
+⸻
+
+### ✅ Sprint Notları (Toplam: 275)
+
+| Görev | Açıklama | Puan |
+|-------|----------|------|
+| Sprint başı toplantısı yapılacak ve yapılacaklar belirlenecek | Sprint planlaması gerçekleştirildi | 20 |
+| Görevler JIRA'ya eklenecek, ekip üyelerine atamaları ve puanlamaları yapılacak | Teknik görevler planlandı ve dağıtıldı | 15 |
+| Hikayede adı geçen 3 krallık oyuna eklenecek | Oyun sahnesine krallıklar yerleştirildi | 50 |
+| Hikayede adı geçen karakterler oyuna eklenecek | Karakter asset’leri oyuna aktarıldı | 50 |
+| Oyun için anlamlı bir hikaye yazılacak | Giriş, gelişme ve sonuç bölümleri tamamlandı | 30 |
+| Karakterler arası konuşmalar yazılacak | Diyalog senaryoları oluşturuldu | 20 |
+| Kalelerin içlerine giriş için sahne geçişleri yapılacak | Sahne geçiş kodlamaları tamamlandı | 30 |
+| Diyalog ve giriş ekranı UI tasarımı yapılacak | Unity arayüzleri geliştirildi | 30 |
+| Hikaye kayıt sistemi yapılacak | Save sisteminin temel yapısı kuruldu | 30 |
+| Görev sistemi eklenecek | Ana görev sistemi tanımlandı | 30 |
+| Map ve çevre düzeni için gerekli şeyler eklenecek (yön tabelaları, ağaçlar, yollar) | Harita detaylandırıldı | 30 |
+| Sprint sonu toplantısı yapılıp, feedbackler alınacak | Toplantı yapılacak, iyileştirme notları alınacak | 20 |
+
+⸻
+
+### 🎯 Sprint ve Puan Hedefi:
+- Hikaye ve karakterlerin oyuna entegrasyonu sağlanacak, temel UI ve sahne geçişleri oluşturulacaktır.
+- **Tamamlanması beklenen puan:** 275  
+- **Tamamlanan puan:** 275
+
+⸻
+
+### ⏱️ Tahmin Mantığı
+- **15** → Kolay seviye görevler (0-30 dakika)
+- **20** → Orta seviye görevler (30–60 dakika)  
+- **30** → Detaylı görevler (1–2 saat)  
+- **50** → Karmaşık görevler (2 saatten fazla)
+
+⸻
+
+### 🗓️ Daily Scrum Notları
+
+Sprint boyunca her gün yapılan Daily Scrum toplantılarında aşağıdaki sorulara odaklanıldı:
+
+- Ne yaptım?
+- Ne yapacağım?
+- Engel var mı?
+
+📎 Detaylı kayıtlar için: [2. sprint DS](https://github.com/user-attachments/files/21336124/sprint2_scrum-2.pdf)
+
+⸻
+
+### 📋 Sprint Board Güncellemesi
+
+Aşağıda Jira’dan alınan sprint board ekran görüntüsü yer almaktadır:
+
+[![2. Sprint Jira Board](https://i.postimg.cc/SRFS72HM/Screenshot-2025-07-20-at-19-07-57.png)](https://postimg.cc/dk6cJ1ss)
+
+⸻
+
+### 🛠️ Ürün Durumu
+
+- Harita UI ve kale geçiş kodu çalışır durumda  
+- Diyalog ve görev sistemleri kod edildi  
+- Hikaye kayıt sistemi kodlandi  
+- Krallıklar ve karakterler oyuna eklendi
+- Oyun haritasına objeler eklenerek zenginleştirildi.
+
+⸻
+
+### 📌 Sprint Review
+
+- 🎯 Hikaye tabanlı yapı başarıyla kuruldu.  
+- 🎮 Harita ve geçişler oyuna bütünlük kazandırdı.  
+- 🧠 Diyalog ve görev sistemleriyle oynanabilirlik güçlendi.
+
+⸻
+
+### 🔁 Sprint Retrospective
+
+**✅ Neler iyi gitti:**
+- Görev dağılımı eşit yapıldı.
+- Jira takibi ve kullanımı daha verimliydi.
+- Görsel ve teknik entegrasyon başarılıydı.
+
+**🛠️ Geliştirilebilecek yönler:**
+- Ekip üyeleri Daily Scrum için günlük geri bildirim vermeliydi.
+- Görev sistemi daha erken eklenmeliydi.
+- Planlanan bazı görevlerin, oyuna zamanında eklenmesi aksadı.
+
+**💡 Öğrenilenler:**
+- Karmaşık görevlerin bölünmesi süreci hızlandırıyor.
+- Ekip içinde paralel çalışmalarda ilerleme daha iyi koordine edilebilir.
+
+⸻
+⸻
 ⸻
 
 ### 🟨 Sprint 3 – Son Testler ve Yayın Hazırlığı  

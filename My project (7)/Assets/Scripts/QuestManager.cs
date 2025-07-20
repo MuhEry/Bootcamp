@@ -7,14 +7,14 @@ public class QuestManager : MonoBehaviour
 
     void Start()
     {
-        AddQuest("Mesaj Taþý", "Krallýk A'dan B'ye mesaj taþý.");
+        AddQuest("Mesaj Taï¿½ï¿½", "KrallÄ±k A'dan B'ye mesaj taï¿½ï¿½.");
     }
 
     public void AddQuest(string name, string description)
     {
         Quest newQuest = new Quest { questName = name, description = description, isCompleted = false };
         quests.Add(newQuest);
-        Debug.Log("Görev eklendi: " + name);
+        Debug.Log("GÃ¶rev eklendi: " + name);
     }
 
     public void CompleteQuest(string name)
@@ -24,7 +24,7 @@ public class QuestManager : MonoBehaviour
             if (quest.questName == name)
             {
                 quest.isCompleted = true;
-                Debug.Log("Görev tamamlandý: " + name);
+                Debug.Log("GÃ¶rev tamamlandÄ±: " + name);
                 break;
             }
         }
