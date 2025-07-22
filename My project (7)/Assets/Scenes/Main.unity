@@ -30398,7 +30398,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1876271853}
     m_Modifications:
     - target: {fileID: 100008, guid: 46872250ac6d442acacd5a2429ee0139, type: 3}
       propertyPath: m_Name
@@ -32226,6 +32226,11 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -4315542600374322986, guid: f2ae413020597dc4b95af1f098911f23, type: 3}
+--- !u!4 &1238457108 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400008, guid: 46872250ac6d442acacd5a2429ee0139, type: 3}
+  m_PrefabInstance: {fileID: 1162486687}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1243197327
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -48513,6 +48518,7 @@ Transform:
   - {fileID: 566833484}
   - {fileID: 189510201}
   - {fileID: 2050397931}
+  - {fileID: 1238457108}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1878800462
@@ -56018,12 +56024,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 2142300160}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f64d0888b1fe59c49861ffdd98fac52d, type: 3}
+  m_Script: {fileID: 11500000, guid: 48cbb8da8575daf4496b7f07a875d574, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetSceneName: SampleScene
-  interactionText: {fileID: 1205693294}
-  interactionKey: 102
+  doorMessageText: {fileID: 0}
+  messageToShow: "E'ye basarak kap\u0131y\u0131 kontrol et"
+  backgroundImageObject: {fileID: 0}
 --- !u!114 &2142300166
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56036,9 +56042,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a534f18e22535c54681e0362f062b438, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  doorPromptText: {fileID: 1205693294}
-  currentQuestID: 1
-  questSceneMappings: []
 --- !u!65 &2142300167
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -56073,4 +56076,3 @@ SceneRoots:
   - {fileID: 1908598557}
   - {fileID: 1787521534}
   - {fileID: 1633535368}
-  - {fileID: 1162486687}
