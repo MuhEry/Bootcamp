@@ -490,8 +490,8 @@ Material:
     - _render_zw: 1
     m_Colors:
     - _AlphaRemap: {r: 0, g: 1, b: 0, a: 0}
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 0}
-    - _Color: {r: 1, g: 1, b: 1, a: 0}
+    - _BaseColor: {r: 0.2264151, g: 0.10039157, b: 0.10039157, a: 0}
+    - _Color: {r: 0.22641507, g: 0.100391544, b: 0.100391544, a: 0}
     - _DetailBlendRemap: {r: 0, g: 0, b: 0, a: 0}
     - _DetailColor: {r: 1, g: 1, b: 1, a: 0}
     - _DetailMaskRemap: {r: 0, g: 0, b: 0, a: 0}
