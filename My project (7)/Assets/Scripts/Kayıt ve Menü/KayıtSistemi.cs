@@ -3,7 +3,8 @@ using UnityEngine;
 public class KayıtSistemi : MonoBehaviour
 {
     public Transform karakterKonumu;
-
+    public GorevYonetici gorevYonetici;
+    private int aktifGorevID;
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.F5))
@@ -23,7 +24,8 @@ public class KayıtSistemi : MonoBehaviour
         {
             konumX = karakterKonumu.position.x,
             konumY = karakterKonumu.position.y,
-            konumZ = karakterKonumu.position.z
+            konumZ = karakterKonumu.position.z,
+            aktifGorevID = gorevYonetici.aktifGorevID
         };
 
         string json = JsonUtility.ToJson(state);
@@ -43,7 +45,9 @@ public class KayıtSistemi : MonoBehaviour
             Vector3 konum = new Vector3(state.konumX, state.konumY, state.konumZ);
             karakterKonumu.position = konum;
 
-            Debug.Log("Konum yüklendi!");
+            gorevYonetici.aktifGorevID = aktifGorevID;
+
+            Debug.Log("Kayıt yüklendi!");
         }
         else
         {

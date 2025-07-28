@@ -8,6 +8,7 @@ public class KayýtVerileri
     public float konumX;
     public float konumY;
     public float konumZ;
+    public int aktifGorevID;
 
     // Görev ve krallýk iliþkileri eklenecek
 }

@@ -136,7 +136,7 @@ public class SceneAnnotationEditor : Editor
     private void GoToAnnotation(int delta)
     {
         var self = (SceneAnnotation) target;
-        var annotationList = new List<SceneAnnotation>(FindObjectsOfType<SceneAnnotation>());
+        var annotationList = new List<SceneAnnotation>(Object.FindObjectsByType<SceneAnnotation>(FindObjectsSortMode.None));
         annotationList.Sort();
         var here = annotationList.IndexOf(self);
         here += delta;
@@ -174,7 +174,7 @@ public class SceneAnnotationEditor : Editor
 
     static void AutoSelectFirstItem()
     {
-        var annotationList = new List<SceneAnnotation>(FindObjectsOfType<SceneAnnotation>());
+        var annotationList = new List<SceneAnnotation>(Object.FindObjectsByType<SceneAnnotation>(FindObjectsSortMode.None));
         if (annotationList.Count < 1) return;
         
         annotationList.Sort();

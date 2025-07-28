@@ -11,5 +11,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Ara Sahneler/1.unity
+    guid: 6199e1f07592eda489899d41001b8f2f
+  - enabled: 1
+    path: Assets/Scenes/Ara Sahneler/2.unity
+    guid: 856cde6008506fa44a563128be551a1c
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

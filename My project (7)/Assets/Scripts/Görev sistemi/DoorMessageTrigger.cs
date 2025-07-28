@@ -1,22 +1,38 @@
 using UnityEngine;
-using TMPro; // TextMeshPro kullanmak için bu kütüphaneyi ekleyin
+using TMPro;
+using UnityEngine.SceneManagement;
 
 public class DoorMessageTrigger : MonoBehaviour
 {
     [SerializeField] private TextMeshProUGUI doorMessageText; // Inspector'dan baðlayacaðýmýz UI metni
-    [SerializeField] private string messageToShow = "E'ye basarak kapýyý kontrol et"; // Gösterilecek mesaj
-    [SerializeField] private GameObject backgroundImageObject; // Arka plan resmini içeren GameObject
+    [SerializeField] private string messageToShow = "F'ye basarak kapýyý kontrol et"; // Gösterilecek mesaj
+    [SerializeField] private GorevYonetici gorevYonetici;
+    [SerializeField] private KayýtSistemi kayýtSistemi;
+
+    private bool Kapýda = false;
 
     void Start()
     {
-        // Oyun baþladýðýnda metni ve resmi gizle
+        // Oyun baþladýðýnda metni  gizle
         if (doorMessageText != null)
         {
             doorMessageText.gameObject.SetActive(false);
         }
-        if (backgroundImageObject != null)
+    }
+    void Update()
+    {
+        if (Kapýda && Input.GetKeyDown(KeyCode.F))
         {
-            backgroundImageObject.SetActive(false);
+            if (kayýtSistemi != null)
+                kayýtSistemi.Kaydet();
+
+            SceneManager.LoadScene(gorevYonetici.aktifGorevID.ToString());
+
+            if (gorevYonetici != null)
+                gorevYonetici.GoreviTamamlaVeSonrakineGec();
+
+            if (kayýtSistemi != null)
+                kayýtSistemi.Yukle();
         }
     }
 
@@ -26,14 +42,11 @@ public class DoorMessageTrigger : MonoBehaviour
         // Oyuncu karakterinizin bir "Player" Tag'i olduðundan emin olun
         if (other.CompareTag("Player"))
         {
+            Kapýda = true;
             if (doorMessageText != null)
             {
                 doorMessageText.text = messageToShow; // Mesajý ayarla
                 doorMessageText.gameObject.SetActive(true); // Metni görünür yap
-            }
-            if (backgroundImageObject != null)
-            {
-                backgroundImageObject.SetActive(true); // Arka plan resmini görünür yap
             }
         }
     }
@@ -43,13 +56,10 @@ public class DoorMessageTrigger : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            Kapýda = false;
             if (doorMessageText != null)
             {
                 doorMessageText.gameObject.SetActive(false); // Metni gizle
-            }
-            if (backgroundImageObject != null)
-            {
-                backgroundImageObject.SetActive(false); // Arka plan resmini gizle
             }
         }
     }
