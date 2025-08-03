@@ -342,7 +342,7 @@ Sprint boyunca her gün düzenli olarak yapılan Daily Scrum toplantılarında t
 
 📎 Detaylı günlük kayıtlar ve ekran görüntüleri aşağıdaki dökümanda sunulmuştur.
 
-👉 [Daily Scrum Dokümanı](aktivite_raporu.docx)
+👉 [Daily Scrum Dokümanı]()[aktivite_raporu.docx](https://github.com/user-attachments/files/21565558/aktivite_raporu.docx)
 
 ---
 
