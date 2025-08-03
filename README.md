@@ -368,7 +368,7 @@ Sprint 3 sonunda geliştirilen ürünün güncel durumu aşağıdaki gibidir:
 
 📌 **Sprint Review**
 
-Sprint 3 hedefleri başarıyla tamamlandı. Toplamda 10 görev tamamlanarak 430 puanlık hedefe ulaşıldı.
+Sprint 3 hedefleri başarıyla tamamlandı. Toplamda 7 görev tamamlanarak 250 puanlık hedefe ulaşıldı.
 
 - 💬 Diyalog ve görev sistemleri başarıyla entegre edildi.  
 - 🧠 Yapay zeka için temel sistem planlandı ve entegre süreci başlatıldı.  
@@ -382,7 +382,7 @@ Sprint 3 hedefleri başarıyla tamamlandı. Toplamda 10 görev tamamlanarak 430 
 - ✅ Neler iyi gitti:
   - Ana oyun mekanikleri sorunsuz bir şekilde tamamlandı.
   - Takım içi iletişim önceki sprintlere göre daha verimliydi.
-  - Geri bildirim süreçleri daha etkin yürütüldü.
+  - Geri bildirim süreçleri etkin yürütüldü.
 
 - 🛠️ Geliştirilebilecek yönler:
   - Yapay zeka sisteminin kodlamasına daha erken başlanabilirdi.
