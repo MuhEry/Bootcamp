@@ -285,7 +285,111 @@ Sprint 2 sonunda geliştirilen ürünün güncel durumu aşağıdaki gibidir:
 ⸻
 ⸻
 
-### 🟨 Sprint 3 – Son Testler ve Yayın Hazırlığı  
-_(İçerik daha sonra eklenecek)_
+---
+
+## 🟩 3. Sprint 
+
+#### 🗓️ Sprint Süresi:
+21.07.2025 - 03.08.2025
+
+## ✅ Sprint Notları (Toplam: 430)
+
+| Görev | Açıklama | Puan |
+|-------|----------|------|
+| 3. sprint başlangıç toplantısı yapılacak | Takımca sprint hedefleri ve görev dağılımı görüşüldü | 10 |
+| Diyalog sistemi geliştirilecek | Oyuncunun seçimlerine göre değişen diyalog akışı oluşturuldu | 50 |
+| Görev sistemi geliştirilecek | Oyun içi görev yapısı oluşturularak yönlendirme sistemi kuruldu | 50 |
+| Harita detaylar ile güzelleştirilecek | Mevcut harita görselleri estetik detaylarla zenginleştirildi | 30 |
+| Hikaye kayıt sistemi geliştirilecek | Oyuncunun yaptığı seçimlerin kaydedildiği sistem geliştirildi | 50 |
+| NPC’lere yapay zeka ile cevap verme sistemi eklenecek | Oyuncunun kararlarına göre yanıt veren diyalog sistemi planlandı | 100 |
+| Arka plan müziği (loop) yapılıp oyuna eklenecek | Temaya uygun müzik tasarlanarak oyuna eklendi | 30 |
+| Temel menü yapılacak | Oyunun ana ekranı ve başlangıç menüsü geliştirildi | 30 |
+| Video hazırlanacak | Sprint çıktılarının tanıtımı için video içerik hazırlandı | 50 |
+| Son testler ve geri bildirim | Proje üzerinde genel testler yapıldı, geri bildirimler alındı | 30 |
+
+---
+
+#### 🎯 Sprint ve Puan Hedefi:
+- Diyalog, görev, kayıt ve müzik sistemleri gibi temel mekanikler geliştirilecek, yapay zeka entegrasyonu planlanacaktır.
+- Tamamlanması beklenen puan: 430.  
+- Tamamlanan puan: 250.
+
+---
+
+### ⏱️ Tahmin Mantığı 
+
+Sprint görevleri, tahmini tamamlanma sürelerine göre puanlandırılmıştır.  
+Her puan aralığı belirli bir zaman dilimini temsil eder:
+
+- **10** → Çok basit görevler (10–15 dakika)
+- **15** → Basit görevler (15–30 dakika)
+- **20** → Orta seviye görevler (30–60 dakika)
+- **30** → Detaylı görevler (1–2 saat)
+- **50** → Karmaşık ve çok adımlı görevler (2 saatten fazla)
+- **100** → Geniş kapsamlı, ileri seviye görevler
+
+Tahminler; görev karmaşıklığı, bağımlılıkları ve daha önceki benzer işlerin süresine göre verilmiştir.
+
+---
+
+🗓️ **Daily Scrum Notları**
+
+Sprint boyunca her gün düzenli olarak yapılan Daily Scrum toplantılarında takım üyeleri aşağıdaki 3 soruya yanıt verdi:
+
+- Ne yaptım?
+- Ne yapacağım?
+- Karşılaştığım engel var mı?
+
+📎 Detaylı günlük kayıtlar ve ekran görüntüleri aşağıdaki dökümanda sunulmuştur.
+
+👉 [Daily Scrum Dokümanı](https://github.com/user-attachments/files/21565558/aktivite_raporu.docx)
+
+---
+
+📋 **Sprint Board Güncellemesi**
+
+Sprint süresince tamamlanan görevlerin Jira üzerindeki görünümüne aşağıdan ulaşabilirsiniz:
+
+📷 *Jira Ekran Görüntüsü:*
+
+[![Screenshot-2025-08-03-at-13-00-33.png](https://i.postimg.cc/R0sqwGVz/Screenshot-2025-08-03-at-13-00-33.png)](https://postimg.cc/B8Fq0TKh)
+
+---
+
+🛠️ **Ürün Durumu**
+
+Sprint 3 sonunda geliştirilen ürünün güncel durumu aşağıdaki gibidir:
+
+📷 *Oyun Demo Görüntüsü:*
+
+[![Screenshot-2025-08-03-at-13-09-10.png](https://i.postimg.cc/sDNn0C6B/Screenshot-2025-08-03-at-13-09-10.png)](https://postimg.cc/mt7NtJGR)
+
+---
+
+📌 **Sprint Review**
+
+Sprint 3 hedefleri başarıyla tamamlandı. Toplamda 7 görev tamamlanarak 250 puanlık hedefe ulaşıldı.
+
+- 💬 Diyalog ve görev sistemleri başarıyla entegre edildi.  
+- 🧠 Yapay zeka için temel sistem planlandı ve entegre süreci başlatıldı.  
+- 🎶 Temel menü ile oyun deneyimi geliştirildi.  
+- 📹 Video hazırlanarak dış iletişim için sunuma hazır hale getirildi.
+
+---
+
+🔁 **Sprint Retrospective**
+
+- ✅ Neler iyi gitti:
+  - Ana oyun mekanikleri sorunsuz bir şekilde tamamlandı.
+  - Takım içi iletişim önceki sprintlere göre daha verimliydi.
+  - Geri bildirim süreçleri etkin yürütüldü.
+
+- 🛠️ Geliştirilebilecek yönler:
+  - Yapay zeka sisteminin kodlamasına daha erken başlanabilirdi.
+  - Oyun içi test süreci daha fazla cihazda denenerek genişletilebilir.
+
+- 💡 Öğrenilenler:
+  - Zamanında görev dağılımı ve iletişim, teknik işleri kolaylaştırıyor.
+  - Görsel ve işitsel öğeler, oyuncu deneyimini doğrudan etkiliyor.
 
 ⸻
