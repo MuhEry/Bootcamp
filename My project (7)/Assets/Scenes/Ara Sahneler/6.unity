@@ -119,6 +119,56 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &113089345
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 113089347}
+  - component: {fileID: 113089346}
+  m_Layer: 0
+  m_Name: "y\xF6netim"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &113089346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 113089345}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44a92c429d810364cb83d60beb75bcba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uiMetin: {fileID: 154123132}
+  uiSahneGecme: {fileID: 766156429}
+  delay: 0.05
+  tamMetin: "\"Oyun bitti\\nOynad\u0131\u011F\u0131n\u0131z i\xE7in te\u015Fekk\xFCrler\"\\nEme\u011Fi
+    ge\xE7enler:\\nMuhammed Ery\u0131lmaz\\nZeynep Ravza Y\u0131lmaz\\nAhmet Enes
+    K\xFC\xE7\xFCkmadan\\nBuse Bilici"
+--- !u!4 &113089347
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 113089345}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1468.4326, y: 247.88136, z: -8.894508}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &154123130
 GameObject:
   m_ObjectHideFlags: 0
@@ -153,7 +203,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -207}
+  m_AnchoredPosition: {x: 0, y: -65}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &154123132
@@ -176,14 +226,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\"De\u011Ferli Velmora Kral\u0131,\\nDurnheim Krall\u0131\u011F\u0131'ndan
-    gelen haberler, i\xE7 huzursuzluklar\u0131n b\xFCy\xFCk bir \xE7at\u0131\u015Fmaya
-    d\xF6n\xFC\u015Fme potansiyeli ta\u015F\u0131d\u0131\u011F\u0131n\u0131 g\xF6stermektedir.
-    Velmora'n\u0131n g\xFCvenli\u011Fi, bu belirsizlikler alt\u0131nda tehdit alt\u0131ndad\u0131r.
-    Bu durumu dikkate alman\u0131z\u0131 ve gerekli \xF6nlemleri alman\u0131z\u0131
-    tavsiye ederim. Bu t\xFCr durumlar, ge\xE7mi\u015Fte bir\xE7ok krall\u0131\u011F\u0131n
-    y\u0131k\u0131m\u0131na yol a\xE7m\u0131\u015Ft\u0131r; dikkatli olmakta fayda
-    var.\\nSayg\u0131lar\u0131mla, Durnheim Kral\u0131\",\r\n"
+  m_text: "\"Oyun bitti\\nOynad\u0131\u011F\u0131n\u0131z i\xE7in te\u015Fekk\xFCrler\"\\nEme\u011Fi
+    ge\xE7enler:\\nMuhammed Ery\u0131lmaz\\nZeynep Ravza Y\u0131lmaz\\nAhmet Enes
+    K\xFC\xE7\xFCkmadan\\nBuse Bilici"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 31ba2ed1bc4884042886e17e02bb5531, type: 2}
   m_sharedMaterial: {fileID: 5138056698440443545, guid: 31ba2ed1bc4884042886e17e02bb5531, type: 2}
@@ -210,8 +255,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 50
-  m_fontSizeBase: 50
+  m_fontSize: 70
+  m_fontSizeBase: 70
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -330,7 +375,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &549659819
+--- !u!1 &766156427
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -338,23 +383,42 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 549659822}
-  - component: {fileID: 549659821}
-  - component: {fileID: 549659820}
+  - component: {fileID: 766156428}
+  - component: {fileID: 766156430}
+  - component: {fileID: 766156429}
   m_Layer: 5
-  m_Name: "Ge\xE7mek\u0130\xE7inF"
+  m_Name: kapat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &549659820
+--- !u!224 &766156428
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 766156427}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1380721249}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 1054, y: -618}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &766156429
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 549659819}
+  m_GameObject: {fileID: 766156427}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
@@ -368,10 +432,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: "\xC7\u0131kmak \u0130\xE7in F"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 31ba2ed1bc4884042886e17e02bb5531, type: 2}
+  m_sharedMaterial: {fileID: 5138056698440443545, guid: 31ba2ed1bc4884042886e17e02bb5531, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -395,8 +459,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 55
+  m_fontSizeBase: 55
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -433,39 +497,20 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -902.07166, y: 0, z: 644.4789, w: -29.810577}
+  m_margin: {x: -165.15698, y: 0, z: -180.10352, w: -65.24019}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &549659821
+--- !u!222 &766156430
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 549659819}
+  m_GameObject: {fileID: 766156427}
   m_CullTransparentMesh: 1
---- !u!224 &549659822
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 549659819}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1380721249}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1824, y: -665}
-  m_SizeDelta: {x: 200, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &787108426
 GameObject:
   m_ObjectHideFlags: 0
@@ -585,14 +630,14 @@ RectTransform:
   m_GameObject: {fileID: 840886944}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 26, y: 15, z: 1}
+  m_LocalScale: {x: 26, y: 20.1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1380721249}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -22}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &840886946
@@ -615,7 +660,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 7910d54217dde6c4b894f9a3b07bd5fa, type: 3}
+  m_Texture: {fileID: 2800000, guid: 7abdc3e55d9382942aa9d0f0e75b65af, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -843,7 +888,7 @@ RectTransform:
   m_Children:
   - {fileID: 840886945}
   - {fileID: 154123131}
-  - {fileID: 549659822}
+  - {fileID: 766156428}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -851,62 +896,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!1 &2080010008
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2080010010}
-  - component: {fileID: 2080010009}
-  m_Layer: 0
-  m_Name: "SahneY\xF6netimi"
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &2080010009
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2080010008}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3252e165f0ee4d84a9033c0224d03e27, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  uiMetin: {fileID: 154123132}
-  uiSahneGecme: {fileID: 549659820}
-  delay: 0.05
-  tamMetin: "\"Azeran Krall\u0131\u011F\u0131ndan sayg\u0131de\u011Fer Durnheim Kral\u0131na,\r\nHuzur
-    dolu kalbimle selamlar\u0131m\u0131 iletiyorum. Zaman\u0131n getirdi\u011Fi zorluklar
-    kar\u015F\u0131s\u0131nda, \r\nd\xFC\u015Fmanlar\u0131m\u0131zla ba\u015Fa \xE7\u0131kabilmemiz
-    i\xE7in aram\u0131zda kal\u0131c\u0131 bir bar\u0131\u015F\u0131n tesis edilmesi
-    \r\nelzemdir. Birlikte hareket etti\u011Fimizde, g\xFC\xE7lerimizin bir araya
-    gelmesi, her iki \r\nkrall\u0131\u011F\u0131n da gelece\u011Fini g\xFCvence alt\u0131na
-    alacakt\u0131r. Bu teklifi de\u011Ferlendirmenizi temenni \r\nederim. Huzurumuzun,
-    ancak karde\u015Flik i\xE7inde sa\u011Flanabilece\u011Fini unutmayal\u0131m.\r\nSayg\u0131lar\u0131mla,\r\nAzeran
-    Kral\u0131\""
---- !u!4 &2080010010
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2080010008}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1394.6412, y: 352.93277, z: 111.766235}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -915,4 +904,4 @@ SceneRoots:
   - {fileID: 861161487}
   - {fileID: 1380721249}
   - {fileID: 391101883}
-  - {fileID: 2080010010}
+  - {fileID: 113089347}

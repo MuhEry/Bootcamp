@@ -153,7 +153,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -271}
+  m_AnchoredPosition: {x: 0, y: -200}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &154123132
@@ -176,15 +176,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\"Azeran Krall\u0131\u011F\u0131ndan sayg\u0131de\u011Fer Durnheim Kral\u0131na,\r\nHuzur
-    dolu kalbimle selamlar\u0131m\u0131 iletiyorum. Zaman\u0131n getirdi\u011Fi zorluklar
-    kar\u015F\u0131s\u0131nda, \r\nd\xFC\u015Fmanlar\u0131m\u0131zla ba\u015Fa \xE7\u0131kabilmemiz
-    i\xE7in aram\u0131zda kal\u0131c\u0131 bir bar\u0131\u015F\u0131n tesis edilmesi
-    \r\nelzemdir. Birlikte hareket etti\u011Fimizde, g\xFC\xE7lerimizin bir araya
-    gelmesi, her iki \r\nkrall\u0131\u011F\u0131n da gelece\u011Fini g\xFCvence alt\u0131na
-    alacakt\u0131r. Bu teklifi de\u011Ferlendirmenizi temenni \r\nederim. Huzurumuzun,
-    ancak karde\u015Flik i\xE7inde sa\u011Flanabilece\u011Fini unutmayal\u0131m.\r\nSayg\u0131lar\u0131mla,\r                      
-    Azeran Kral\u0131\""
+  m_text: "\"Azeran Krall\u0131\u011F\u0131'n\u0131n sayg\u0131de\u011Fer Durnheim
+    Kral\u0131\u2019na,\\nHuzur dolu kalbimle selamlar\u0131m\u0131 iletiyorum. Zaman\u0131n
+    getirdi\u011Fi zorluklar kar\u015F\u0131s\u0131nda, d\xFC\u015Fmanlar\u0131m\u0131zla
+    ba\u015Fa \xE7\u0131kabilmemiz i\xE7in aram\u0131zda kal\u0131c\u0131 bir bar\u0131\u015F\u0131n
+    tesis edilmesi elzemdir. Birlikte hareket etti\u011Fimizde, g\xFC\xE7lerimizin
+    bir araya gelmesi, her iki krall\u0131\u011F\u0131n da gelece\u011Fini g\xFCvence
+    alt\u0131na alacakt\u0131r. Bu teklifi de\u011Ferlendirmenizi temenni ederim.
+    Huzurumuzun, ancak karde\u015Flik i\xE7inde sa\u011Flanabilece\u011Fini unutmayal\u0131m.\\nSayg\u0131lar\u0131mla,
+    Azeran Kral\u0131\",\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 31ba2ed1bc4884042886e17e02bb5531, type: 2}
   m_sharedMaterial: {fileID: 5138056698440443545, guid: 31ba2ed1bc4884042886e17e02bb5531, type: 2}

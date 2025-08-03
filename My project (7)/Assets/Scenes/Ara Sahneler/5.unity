@@ -153,7 +153,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -271}
+  m_AnchoredPosition: {x: 0, y: -242}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &154123132
@@ -176,15 +176,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\"Azeran Krall\u0131\u011F\u0131ndan sayg\u0131de\u011Fer Durnheim Kral\u0131na,\r\nHuzur
-    dolu kalbimle selamlar\u0131m\u0131 iletiyorum. Zaman\u0131n getirdi\u011Fi zorluklar
-    kar\u015F\u0131s\u0131nda, \r\nd\xFC\u015Fmanlar\u0131m\u0131zla ba\u015Fa \xE7\u0131kabilmemiz
-    i\xE7in aram\u0131zda kal\u0131c\u0131 bir bar\u0131\u015F\u0131n tesis edilmesi
-    \r\nelzemdir. Birlikte hareket etti\u011Fimizde, g\xFC\xE7lerimizin bir araya
-    gelmesi, her iki \r\nkrall\u0131\u011F\u0131n da gelece\u011Fini g\xFCvence alt\u0131na
-    alacakt\u0131r. Bu teklifi de\u011Ferlendirmenizi temenni \r\nederim. Huzurumuzun,
-    ancak karde\u015Flik i\xE7inde sa\u011Flanabilece\u011Fini unutmayal\u0131m.\r\nSayg\u0131lar\u0131mla,\r                      
-    Azeran Kral\u0131\""
+  m_text: "\"Sayg\u0131de\u011Fer Durnheim Kral\u0131,\\nT\xFCm krall\u0131klar\u0131n
+    bir araya gelerek ortak bir gelecek in\u015Fa etme arzusunu ifade etmekten mutluluk
+    duyar\u0131m. Bar\u0131\u015F\u0131n sa\u011Flanmas\u0131, her bir krall\u0131\u011F\u0131n
+    katk\u0131s\u0131n\u0131 gerektiren hayati bir meseledir. Krall\u0131klar\u0131n
+    birli\u011Fi, sadece d\xFC\u015Fmanlar\u0131m\u0131za kar\u015F\u0131 de\u011Fil,
+    ayn\u0131 zamanda kendi i\xE7 huzurumuz i\xE7in de elzemdir. Bu toplant\u0131da,
+    birlikte hareket etmenin yollar\u0131n\u0131 aramal\u0131y\u0131z. Size en i\xE7ten
+    selamlar\u0131m\u0131 sunuyorum.\\nSayg\u0131lar\u0131mla, Velmora Kral\u0131\",\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 31ba2ed1bc4884042886e17e02bb5531, type: 2}
   m_sharedMaterial: {fileID: 5138056698440443545, guid: 31ba2ed1bc4884042886e17e02bb5531, type: 2}
@@ -884,6 +883,7 @@ MonoBehaviour:
   uiMetin: {fileID: 154123132}
   uiSahneGecme: {fileID: 549659820}
   delay: 0.05
+  acilacakSahne: 6
   tamMetin: "\"Azeran Krall\u0131\u011F\u0131ndan sayg\u0131de\u011Fer Durnheim Kral\u0131na,\r\nHuzur
     dolu kalbimle selamlar\u0131m\u0131 iletiyorum. Zaman\u0131n getirdi\u011Fi zorluklar
     kar\u015F\u0131s\u0131nda, \r\nd\xFC\u015Fmanlar\u0131m\u0131zla ba\u015Fa \xE7\u0131kabilmemiz

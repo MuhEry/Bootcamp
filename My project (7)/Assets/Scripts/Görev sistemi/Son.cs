@@ -3,12 +3,11 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class AraSahne : MonoBehaviour
+public class Son : MonoBehaviour
 {
     [SerializeField] private TextMeshProUGUI uiMetin;    // Inspector’dan baðlayacaðýn TMP bileþeni
     [SerializeField] private TextMeshProUGUI uiSahneGecme;    // Inspector’dan baðlayacaðýn TMP bileþeni
     [SerializeField] private float delay = 0.05f;       // Harfler arasý gecikme
-    [SerializeField] private string acilacakSahne = "Main";       // Sýradaki Sahne
     [TextArea]
     [SerializeField] private string tamMetin;
 
@@ -16,7 +15,7 @@ public class AraSahne : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.F))
         {
-            SceneManager.LoadScene(acilacakSahne);  // Oyun sýradaki sahnesine geç
+            Application.Quit();
         }
     }
 
@@ -33,6 +32,6 @@ public class AraSahne : MonoBehaviour
             uiMetin.text += tamMetin[i];
             yield return new WaitForSeconds(delay);
         }
-        uiSahneGecme.text = "Geçmek için F";
+        uiSahneGecme.text = "Çýkmak için F";
     }
 }
